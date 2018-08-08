@@ -1,0 +1,14 @@
+{
+  "name": "interface_grafica",
+  "version": "1.0.0",
+  "description": "",
+  "main": "peoplecount.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jsxapi": "^4.1.3"
+  }
+}
